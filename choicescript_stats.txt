@@ -1,5 +1,17 @@
-This is a stats screen!
-
 *stat_chart
-	percent Insight
+	text Name
+	text Sex
+	text Hair
+	text Skin
+	text Homeland
+	text History
+
+	percent freerunning
+	percent brassworking
+	percent marksmanship
+	percent blades
+	percent insight
+	percent scholarship
+	percent willpower
+	percent subtlety
 

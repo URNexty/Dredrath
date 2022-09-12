@@ -6,8 +6,8 @@
 	*comment History Variables
 *create name "name"
 *create sex "sex"
-*create hair_color "hair"
-*create skin_color "skin"
+*create hair "hair"
+*create skin "skin"
 *create homeland "home"
 *create history "history"
 
