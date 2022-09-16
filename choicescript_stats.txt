@@ -15,3 +15,10 @@
 	percent willpower
 	percent subtlety
 
+	opposed_pair cautious
+		spontaneous
+	opposed_pair skeptical
+		devout
+	opposed_pair self_serving
+		compassionate
+
