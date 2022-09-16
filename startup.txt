@@ -1,7 +1,7 @@
 *title Dredrath test
 *author Ryan Bilodeau
 *scene_list
-	testscene
+	intro1
 
 	*comment History Variables
 *create name "name"
