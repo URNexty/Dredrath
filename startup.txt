@@ -26,11 +26,6 @@
 *create self_serving 50
 *create skeptical 50
 	
-The following is a private alpha for Project DMS, a short text adventure set in the Warhammer 40k port for the setting of Dredrath.
-The events and characters in this story are to be considered non-canon.
-	
-*page_break
-	
-Let's fucking gooo
+The following is a private alpha.
 
 *finish
