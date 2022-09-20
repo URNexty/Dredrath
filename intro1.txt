@@ -41,4 +41,10 @@ Looking up, you get a good look at your destination.
 
 *page_break
 
-The Zarvit Concert Hall. Built in finer times, its grand opening had been only months before the Moontide began. The massive stone complex now seems ominous and haunting after ten years of abandonment, its windows filthy and grand doors covered in mold. Few musicians are willing to perform in such a building, none wish to.
+The Zarvit Concert Hall. Built in finer times, its grand opening had been only months before the Moontide began. The massive stone complex now seems ominous and haunting after ten years of abandonment, its windows filthy and its grand doors covered in mold. Few musicians are willing to perform in such a building, none wish to.
+
+Miskovine told you that Kellach was hiding in the old hall. How she knew such information was beyond you, but you aren't going to question that now. What matters now is dealing with the traitor.
+
+But how do you plan to do that? More importantly, who are you?
+
+*finish You catch a glimpse of yourself in a filthy mirror...

@@ -2,6 +2,7 @@
 *author Ryan Bilodeau
 *scene_list
 	intro1
+	charcreation
 
 	*comment History Variables
 *create name "name"
