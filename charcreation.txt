@@ -6,9 +6,27 @@ The city of Dredrath is known to its people as the Inner Circle, for its circula
 
 Before you were anything at all, you were but a child. Dredians are a sedentary lot, rarely traveling far from the homesteads of their ancestors, be they ancient crumbling halls or windy, grassy fields. Where you born was almost certainly where you were raised, and where you were raised influenced your upbringing without a doubt.
 
+*label birthplace
 *choice
 	#I was born within the cramped and towering walls of the Inner Circle...
-		The Inner Circle, or the City of Dredrath itself, is an ancient and regal city, standing proudly through over six thousand years. characters born within its labyrinthine walls enjoyed the comforts of "modern" pseudo-1800s technology, housed safely within ancient crumbling stone walls. Yet the last ten years have been one of constant turmoil, suffering, and struggle, and only the strong and clever can truly survive. City-Born characters are likely to have a strong sense of tradition and belonging. Family lineage is very important to Dredians of all classes, and only the most wretched and impoverished forsake or live in ignorance of their family name. All others live close to their kin, walk the halls of their ancestors, and bury their dead in milennia-old ancestral tombs carved into the walls of the great pit that is their city. Additionally, as it is the administrative, political, and religious head of the land, lucky city folk could have found themselves lucrative positions within the government of Dredrath itself.
+		The Inner Circle, or the City of Dredrath itself, is an ancient and regal city, standing proudly through over six thousand years. characters born within its labyrinthine walls enjoyed the comforts of "modern" pseudo-1800s technology, housed safely within ancient crumbling stone walls. Yet the last ten years have been one of constant turmoil, suffering, and struggle, and only the strong and clever can truly survive. City-Born characters are likely to have a strong sense of tradition and belonging. Family lineage is very important to Dredians of all classes, and only the most wretched and impoverished forsake or live in ignorance of their family name. All others live close to their kin, walk the halls of their ancestors, and bury their dead in milennia-old ancestral tombs carved into the walls of the great pit that is their city. Additionally, as it is the administrative, political, and religious head of the land, lucky city folk could have found themselves lucrative positions within the government of Dredrath itself
+		.
+		*choice
+			#	This is where I was born.
+				*set homeland "Inner Circle"
+				*goto sex
+			#This is not correct, go back.
+				*goto birthplace
 
 	#I was born in the frontier of the Outer Circle....
 		The Outer Circle is a broad domain. Consisting of sizable towns, tiny villages, and meager outposts, the singular purpose of the settlements of the frontier is to produce and provide raw resources to meet the needs of the Inner Circle- the city proper, whose demands have only grown more intense as it grows more industrialized. Yet the advent of the Moontide and the outbreak of plague within the city have lessened the demand greatly, as citizens die in droves. Still, with the bulk of the Somber Host being called to protect the city, the outskirts find themselves less and less protected by the growing hordes of beastmen that seek to destroy it- and some predict that if left unchecked, even the mighty bastion of Dredrath itself will crumble against their might. As a native of the Outer Circle, you likely lived a hard, simple, but relatively happy life, able to enjoy the few lands of your world that posses any true natural beauty, and a wide degree of cultural autonomy.
+		
+		*choice
+			#	This is where I was born.
+				*set homeland "Outer Circle"
+				*goto sex
+			#This is not correct, go back.
+				*goto birthplace
+
+*label sex
+If only
