@@ -29,4 +29,8 @@ Before you were anything at all, you were but a child. Dredians are a sedentary 
 				*goto birthplace
 
 *label sex
-If only
+A fine homeland. Born of fortune or not, your years there certainly helped define the person you became.
+If only it was still such a nice place to live.
+
+*page_break
+
