@@ -32,5 +32,21 @@ Before you were anything at all, you were but a child. Dredians are a sedentary 
 A fine homeland. Born of fortune or not, your years there certainly helped define the person you became.
 If only it was still such a nice place to live.
 
-*page_break
+Over the years, you grew into a fine young…
 
+*choice
+	#Man
+		*set sex "Male"
+		*goto skin
+	#Woman
+		*set sex "Female"
+		*goto skin
+	#Adult
+		*set sex "Other"
+		*goto skin
+
+*label skin
+
+Gender has no bearing on ability.
+
+*comment make sure theres a choice here to go back and pick sex again
