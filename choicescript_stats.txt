@@ -1,8 +1,6 @@
 *stat_chart
 	text Name
 	text Sex
-	text Hair
-	text Skin
 	text Homeland
 	text History
 

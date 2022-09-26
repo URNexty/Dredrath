@@ -37,15 +37,15 @@ Over the years, you grew into a fine young…
 *choice
 	#Man
 		*set sex "Male"
-		*goto skin
+		*goto name
 	#Woman
 		*set sex "Female"
-		*goto skin
+		*goto name
 	#Adult
 		*set sex "Other"
-		*goto skin
+		*goto name
 
-*label skin
+*label name
 
 Gender has no bearing on ability.
 
