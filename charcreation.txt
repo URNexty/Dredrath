@@ -37,16 +37,32 @@ Over the years, you grew into a fine young…
 *choice
 	#Man
 		*set sex "Male"
-		*goto name
+		*goto sexcheck
 	#Woman
 		*set sex "Female"
-		*goto name
+		*goto sexcheck
 	#Adult
 		*set sex "Other"
+		*goto sexcheck
+
+*label sexcheck
+
+Gender has no bearing on ability, although some elements of Dredian society are strictly bound by perceived sex.
+Dredrath is a matriarchal-inclined theocracy, strongly tied to ancient traditions. As the legendary foremothers and saints of humanity are maintained to have been female, the clergy is typically female, although all but the highest stations are allowed to be men. Additionally, the standing army, the Somber Host, is entirely female, often supplemented with shock troops in the form of the all-male Brotherhood of Crimson Paladins, who also serve non-military roles as bodyguards for officials, as well as the occasional male civilian volunteer militia group where necessary. Civilians, however, maintain no traditional gender stigma, and any discrimination is individual and not systemic.
+
+While the clergy, known as the High House of the Pale Seers, make laws and have the final say, day-to-day administration in the Inner Circle is done by a collection of ancient hereditary monarchies, collectively referred to as the members of the Low House of Pale Seers. The Low House has no restrictions based on sex or gender, although High House officials are typically recruited from them.
+
+In addition to the two houses of the Pale Seers and the military branch that is the Somber Host, a third branch of the ruling government exists, the Crimson Wardens. Organized into great towers known as Warden Fortresses that can operate independently in each district they are established in, Crimson Wardens have a variety of miscellaneous responsibilities in the city. Crimson Paladins are the only truly militant arm of the branch, and typically accompany the other agents within it. Red Clairvoyants offer healing and divination to the faithful, and  Constables and Blackcoats investigate crimes and police the streets respectively, all three of them serving under the district oversight of an Abettor.
+
+Collectively, the government comprised of these three branches is referred to as the Ashen Chantry.
+
+The Outer Circle is less strictly organized, typically independently governed according to their own systems, although with scattered independent Warden Fortresses placed around the larger settlements. They are entirely excluded from recruitment into the High House.
+
+*choice
+	#	I'm sure I want to be ${sex}
 		*goto name
+	#This is not correct, go back.
+		*goto sex
 
 *label name
-
-Gender has no bearing on ability.
-
-*comment make sure theres a choice here to go back and pick sex again
+name
