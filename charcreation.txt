@@ -65,4 +65,16 @@ The Outer Circle is less strictly organized, typically independently governed ac
 		*goto sex
 
 *label name
-And of course, you had a name. 
+And of course, you had a name. Names in the Outer Circle vary significantly based on the subculture in the town of an individual's birth. However, Inner Circle children are frequently named in the traditional form of the city.
+Traditional Dredian names are harsh and guttural, typically including letters such as K, Z, and V. First names ending or including 'th' are common, as well as last names ending in 'ite."
+
+Example first names include: Zia, Krievella, Kasova, Markus, Helzich, Joaquin.
+
+Example last names include: Mezlich, Tallite, Durgund, Gellath.
+
+Marriages are expected to be formal and lifelong, and while polyamory is not illegal it is traditionally heavily frowned upon.
+Typically, the partner that is given a marriage proposal is the one that adopts their partner's name. 
+
+Last names, sometimes referred to more formally as Houses, are very important to Dredians. Each family dynasty maintains their own ancestral tomb carved into the side of the city stone-wall in which all of their descendants are buried regardless of class. These tombs are heavily guarded to prevent desecration of family remains- a concern that is only growing as the years of Moontide continue.
+
+With that said, what is your first name?
