@@ -1,5 +1,6 @@
 *stat_chart
 	text Name
+	text Surname
 	text Sex
 	text Homeland
 	text History

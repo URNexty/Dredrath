@@ -65,4 +65,4 @@ The Outer Circle is less strictly organized, typically independently governed ac
 		*goto sex
 
 *label name
-name
+And of course, you had a name. 

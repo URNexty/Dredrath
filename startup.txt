@@ -6,6 +6,7 @@
 
 	*comment History Variables
 *create name "name"
+*create surname "lastname"
 *create sex "sex"
 *create homeland "home"
 *create history "history"
