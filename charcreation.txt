@@ -78,3 +78,10 @@ Typically, the partner that is given a marriage proposal is the one that adopts 
 Last names, sometimes referred to more formally as Houses, are very important to Dredians. Each family dynasty maintains their own ancestral tomb carved into the side of the city stone-wall in which all of their descendants are buried regardless of class. These tombs are heavily guarded to prevent desecration of family remains- a concern that is only growing as the years of Moontide continue.
 
 With that said, what is your first name?
+*input_text name
+
+And what is your family name?
+*input_text surname
+
+Your name is ${name} ${surname}.
+An ancient house. One that sees its mettle tested in recent days.
