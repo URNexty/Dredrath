@@ -85,3 +85,19 @@ And what is your family name?
 
 Your name is ${name} ${surname}.
 An ancient house. One that sees its mettle tested in recent days.
+
+You certainly do not bring it any prestige today, serving in the ranks of a petty street gang. 
+Of course, you have your own reasons for your current profession. Perhaps it was desperation that drove you to their ranks, your family having been killed and you left penniless. Perhaps it was boredom with a simple life. Perhaps, even, you had always served in gangs, nothing more than a street kid, your house's noble history long since forgotten.
+
+*choice
+	#Yes, I once walked a different path...
+		*goto history
+	#No, street crime is all I've ever known.
+		*set history "Ganger"
+		
+		*goto personality
+
+*label history
+test
+
+*label personality
