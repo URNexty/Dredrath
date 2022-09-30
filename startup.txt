@@ -12,14 +12,14 @@
 *create history "history"
 
 	*comment Skills
-*create freerunning 0
-*create brassworking 0
-*create marksmanship 0
-*create blades 0
-*create insight 0
-*create scholarship 0
-*create willpower 0
-*create subtlety 0
+*create freerunning 20
+*create brassworking 20
+*create marksmanship 20
+*create blades 20
+*create insight 20
+*create scholarship 20
+*create willpower 20
+*create subtlety 20
 
 	*comment Personality Variables
 *create cautious 50
