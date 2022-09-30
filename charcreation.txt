@@ -98,6 +98,9 @@ Of course, you have your own reasons for your current profession. Perhaps it was
 		*goto personality
 
 *label history
-test
+*if homeland = "Outer Circle"
+	Outer Circle jobs
+*else
+	Inner Circle jobs
 
 *label personality
