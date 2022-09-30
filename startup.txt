@@ -11,7 +11,8 @@
 *create homeland "home"
 *create history "history"
 
-	*comment Skills
+	*comment Skills 
+	*comment < 30 impossible, < 49 is partial success, < 69 normal success, 89 < success with boon, < 100 is an overwhelming success 
 *create freerunning 20
 *create brassworking 20
 *create marksmanship 20
