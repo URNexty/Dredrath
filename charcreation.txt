@@ -104,16 +104,19 @@ Of course, you have your own reasons for your current profession. Perhaps it was
 	The Outer Circle is a wild frontier, even in the largest of settlements. While there were always plenty of odd jobs to work, there were primarily three categories that most common folk fell into.
 	*choice
 		#I was a determined hunter, catching animals for food and slaying beastmen in hunting parties where I could.
+			*set history "Hunter"
 			*set marksmanship +50
 			*set subtlety +30
 			*set freerunning +10
 			*goto personality
 		#I was a brave explorer, always scouting out new lands for resources to be exploited.
+			*set history "Explorer"
 			*set scholarship +50
 			*set willpower +30
 			*set insight +10
 			*goto personality
 		#I was a simple but hardworking harvester, helping to supply food and resources to the city.
+			*set history "Harvester"
 			*set willpower +50
 			*set brassworking +30
 			*set blades +10
@@ -122,21 +125,25 @@ Of course, you have your own reasons for your current profession. Perhaps it was
 	The Inner Circle is a massive city complex, filled with people of all walks of life. Here are but a few jobs you might have had.
 	*choice
 		#I was a scholar, studying the history of Dredrath and the world.
+			*set history "Scholar"
 			*set scholarship +50
 			*set insight +30
 			*set willpower +10
 			*goto personality
 		#I was a Brassworker, joining the guild in advancing the sciences and churning out new inventions.
+			*set history "Brassworker"
 			*set brassworking +50
 			*set scholarship +30
 			*set blades +10
 			*goto personality
 		#I was a Blackcoat, a street cop, fighting back against gangers and mutants.
+			*set history "Blackcoat"
 			*set blades +50
 			*set willpower +30
 			*set marksmanship +10
 			*goto personality
 		#I was a common factory worker or salesperson, one among millions.
+			*set history "Worker"
 			*set subtlety +50
 			*set freerunning +30
 			*set brassworking +10
